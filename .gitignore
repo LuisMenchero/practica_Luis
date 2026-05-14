@@ -11,6 +11,18 @@
 *.sln.docstates
 *.env
 
+
+# archivos temporales (añadido por Luis Menchero)
+*.tmp
+*.temp
+*.bak
+*.swp
+
+
+
+
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
